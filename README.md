@@ -54,3 +54,5 @@ The **Smart Water Usage Monitor** is a microcontroller-based project built using
 
 ### 📌 Notes
 This project was developed for academic purposes and focuses on sustainability and real-world problem-solving using embedded systems. It demonstrates practical knowledge of sensors, actuators, and data presentation.
+
+The link for the project :https://www.tinkercad.com/things/hT61To6U9Ev-smart-water-usage-monitor?sharecode=vRCau3nKq-TNkQn_IScjeyfAcsmAAtP6OtJwJ8UaOAo
