@@ -1,7 +1,3 @@
-Absolutely! Here's a clean and professional **GitHub README description** for your **Smart Water Usage Monitor** project:
-
----
-
 ## 💧 Smart Water Usage Monitor
 
 The **Smart Water Usage Monitor** is a microcontroller-based project built using an **Arduino Uno R3**. It is designed to monitor water usage, detect wastage, and provide real-time feedback using sensors and an LCD display. This project focuses on promoting efficient water consumption and is ideal for educational and environmental awareness applications.
